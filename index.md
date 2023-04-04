@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Bad Website Compendium"
   text: "It's just bad websites, yo"
-  tagline: My great project tagline
+  tagline: And really, they're our websites
   actions:
     - theme: brand
       text: Markdown Examples
@@ -23,3 +23,11 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+# Well hello, friends!
+
+How cool is this?
+
+1. Great
+2. Things
+3. Are
+4. Coming
