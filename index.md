@@ -22,12 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
-# Well hello, friends!
-
-How cool is this?
-
-1. Great
-2. Things
-3. Are
-4. Coming
